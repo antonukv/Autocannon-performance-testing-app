@@ -1,0 +1,5 @@
+{
+    "scripts": {
+    "test": "tsc && node src/performance-test.js"
+  }
+}
